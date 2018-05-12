@@ -1,0 +1,30 @@
+_repo: Hand-Book-of-Practical-Cookery-for-Ladies-and-Professional-Cooks_35646
+_version: 0.1.0
+alternative_title: "Handbook of Practical Cookery, for Ladies and Professional Cooks\r\
+  \nContaining the Whole Science and Art of Preparing Human Food"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blot, Pierre
+    birthdate: 1818
+    deathdate: 1874
+    gutenberg_agent_id: '31656'
+    url: http://www.gutenberg.org/2009/agents/31656
+description: ''
+gutenberg_issued: '2011-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+- !lcsh 'Cooking, French'
+title: "Hand-Book of Practical Cookery, for Ladies and Professional Cooks\r\nContaining\
+  \ the Whole Science and Art of Preparing Human Food"
+url: http://www.gutenberg.org/ebooks/35646
